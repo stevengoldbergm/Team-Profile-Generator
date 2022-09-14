@@ -1,13 +1,3 @@
-// TODO:
-    // Set up Inquirer questionnaires (DONE)
-        // "Although it’s not a requirement, you should consider adding validation to ensure that user input provided is in the proper expected format.
-
-
-    // Create jest tests for the working site. 
-        // Ensure that the tests all pass
-
-// ---------------------------------------------------
-
 // Call in Inquirer and fs
 const inquirer = require("inquirer");
 const fs = require('fs');
